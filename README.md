@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zuzawaszczuk
-- 👀 I’m interested in learning basics of programming and cybersecurity
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Optimization, Reasoning and Reinforcment Learning.
+- 🌱 I’m currently studying Computer Science at the Warsaw University of Technology
 - 📫 How to reach me zuza.waszczuk@gmail.com
 
 <!---
